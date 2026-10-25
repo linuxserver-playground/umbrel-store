@@ -4,7 +4,7 @@ category: utilities
 name: Baseimage-ubuntu
 tagline: baseimage-ubuntu container image
 icon: ''
-version: latest
+version: c0b9f66f
 description: baseimage-ubuntu container image.
 developer: LinuxServer.io
 website: https://github.com/linuxserver-playground/docker-baseimage-ubuntu

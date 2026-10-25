@@ -4,7 +4,7 @@ category: utilities
 name: Baseimage-selkies
 tagline: baseimage-selkies container image
 icon: ''
-version: latest
+version: 3b96e1dd
 description: baseimage-selkies container image.
 developer: LinuxServer.io
 website: https://github.com/linuxserver-playground/docker-baseimage-selkies

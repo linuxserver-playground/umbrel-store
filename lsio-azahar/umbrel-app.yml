@@ -4,7 +4,7 @@ category: gaming
 name: Azahar
 tagline: Azahar is an open-source 3DS emulator based on Citra
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/azahar-logo.png
-version: latest
+version: 12126.2-1
 description: Azahar is an open-source 3DS emulator based on Citra.
 developer: LinuxServer.io
 website: https://azahar-emu.org/
