@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-gzdoom
+category: gaming
+name: Gzdoom
+tagline: GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL rendere
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/gzdoom-logo.png
+version: latest
+description: GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities.
+developer: LinuxServer.io
+website: https://gzdoom.app/
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-gzdoom
+support: https://github.com/linuxserver-playground/docker-gzdoom/issues
+port: 3000
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-gzdoom
