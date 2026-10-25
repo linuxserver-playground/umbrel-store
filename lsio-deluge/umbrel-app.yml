@@ -4,7 +4,7 @@ category: automation
 name: Deluge
 tagline: Deluge is a lightweight, Free Software, cross-platform BitTorrent client
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/deluge-logo.png
-version: latest
+version: 2.2.0
 description: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
 developer: LinuxServer.io
 website: http://deluge-torrent.org/
