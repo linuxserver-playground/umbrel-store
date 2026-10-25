@@ -4,7 +4,7 @@ category: gaming
 name: Dolphin
 tagline: 'Dolphin Emulator lets you play GameCube and Wii games with various graphical enhancements and other '
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/dolphin-logo.png
-version: latest
+version: 2609a
 description: Dolphin Emulator lets you play GameCube and Wii games with various graphical enhancements and other features are available to improve your game experience.
 developer: LinuxServer.io
 website: https://dolphin-emu.org/

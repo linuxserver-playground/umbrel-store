@@ -4,7 +4,7 @@ category: gaming
 name: Eden
 tagline: Eden is an experimental open-source emulator for the Nintendo Switch, built with performance and sta
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/eden-logo.png
-version: latest
+version: v0.2.1
 description: Eden is an experimental open-source emulator for the Nintendo Switch, built with performance and stability in mind.
 developer: LinuxServer.io
 website: https://eden-emu.dev/
