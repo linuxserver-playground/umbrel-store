@@ -4,7 +4,7 @@ category: utilities
 name: Apprise-api
 tagline: Apprise-api Takes advantage of Apprise through your network with a user-friendly API
 icon: https://raw.githubusercontent.com/caronc/apprise-api/master/apprise_api/static/logo.png
-version: latest
+version: v2.0.2
 description: Apprise-api Takes advantage of Apprise through your network with a user-friendly API.
 developer: LinuxServer.io
 website: https://github.com/caronc/apprise-api

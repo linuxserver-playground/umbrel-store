@@ -4,7 +4,7 @@ category: media
 name: Ardour
 tagline: Ardour is an open source, collaborative effort of a worldwide team including musicians, programmers,
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/ardour-logo.png
-version: latest
+version: '2026-10-23'
 description: Ardour is an open source, collaborative effort of a worldwide team including musicians, programmers, and professional recording engineers.
 developer: LinuxServer.io
 website: https://ardour.org/

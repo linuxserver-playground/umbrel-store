@@ -4,7 +4,7 @@ category: social
 name: Altus
 tagline: Altus is an Electron-based WhatsApp client with themes and multiple account support
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/altus-logo.png
-version: latest
+version: 5.8.1
 description: Altus is an Electron-based WhatsApp client with themes and multiple account support.
 developer: LinuxServer.io
 website: https://github.com/amanharwara/altus
