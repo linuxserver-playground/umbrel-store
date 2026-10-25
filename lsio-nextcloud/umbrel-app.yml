@@ -4,7 +4,7 @@ category: files
 name: Nextcloud
 tagline: Nextcloud gives you access to all your files wherever you are
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/nextcloud-icon.png
-version: latest
+version: 35.0.2
 description: Nextcloud gives you access to all your files wherever you are.
 developer: LinuxServer.io
 website: https://nextcloud.com/

@@ -4,7 +4,7 @@ category: media
 name: Tautulli
 tagline: Tautulli is a python based web application for monitoring, analytics and notifications for Plex Medi
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/tautulli-icon.png
-version: latest
+version: v2.18.2
 description: Tautulli is a python based web application for monitoring, analytics and notifications for Plex Media Server.
 developer: LinuxServer.io
 website: http://tautulli.com
