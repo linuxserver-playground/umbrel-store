@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-cops
+category: media
+name: Cops
+tagline: Cops by Sébastien Lucas, now maintained by MikesPub, stands for Calibre OPDS (and HTML) Php Server
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/cops-icon.png
+version: latest
+description: Cops by Sébastien Lucas, now maintained by MikesPub, stands for Calibre OPDS (and HTML) Php Server.
+developer: LinuxServer.io
+website: https://github.com/mikespub-org/seblucas-cops
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-cops
+support: https://github.com/linuxserver-playground/docker-cops/issues
+port: 80
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-cops

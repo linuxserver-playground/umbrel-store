@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-baseimage-selkies
+category: utilities
+name: Baseimage-selkies
+tagline: baseimage-selkies container image
+icon: ''
+version: latest
+description: baseimage-selkies container image.
+developer: LinuxServer.io
+website: https://github.com/linuxserver-playground/docker-baseimage-selkies
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-baseimage-selkies
+support: https://github.com/linuxserver-playground/docker-baseimage-selkies/issues
+port: 3001
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-baseimage-selkies

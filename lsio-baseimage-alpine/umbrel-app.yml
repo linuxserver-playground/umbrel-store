@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-baseimage-alpine
+category: utilities
+name: Baseimage-alpine
+tagline: baseimage-alpine container image
+icon: ''
+version: latest
+description: baseimage-alpine container image.
+developer: LinuxServer.io
+website: https://github.com/linuxserver-playground/docker-baseimage-alpine
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-baseimage-alpine
+support: https://github.com/linuxserver-playground/docker-baseimage-alpine/issues
+port: 80
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-baseimage-alpine

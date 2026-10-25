@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-baseimage-debian
+category: utilities
+name: Baseimage-debian
+tagline: baseimage-debian container image
+icon: ''
+version: latest
+description: baseimage-debian container image.
+developer: LinuxServer.io
+website: https://github.com/linuxserver-playground/docker-baseimage-debian
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-baseimage-debian
+support: https://github.com/linuxserver-playground/docker-baseimage-debian/issues
+port: 80
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-baseimage-debian

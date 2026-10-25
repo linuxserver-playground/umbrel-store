@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-brave
+category: utilities
+name: Brave
+tagline: The Brave browser is a fast, private and secure web browser for PC, Mac and mobile
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/brave-logo.png
+version: latest
+description: The Brave browser is a fast, private and secure web browser for PC, Mac and mobile.
+developer: LinuxServer.io
+website: https://brave.com/
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-brave
+support: https://github.com/linuxserver-playground/docker-brave/issues
+port: 3000
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-brave

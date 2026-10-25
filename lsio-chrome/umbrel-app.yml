@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-chrome
+category: utilities
+name: Chrome
+tagline: Chrome is the official web browser from Google, built to be fast, secure, and customizable
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/chrome-logo.png
+version: latest
+description: Chrome is the official web browser from Google, built to be fast, secure, and customizable.
+developer: LinuxServer.io
+website: https://www.google.com/chrome/
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-chrome
+support: https://github.com/linuxserver-playground/docker-chrome/issues
+port: 3000
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-chrome

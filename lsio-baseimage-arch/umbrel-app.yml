@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-baseimage-arch
+category: utilities
+name: Baseimage-arch
+tagline: baseimage-arch container image
+icon: ''
+version: latest
+description: baseimage-arch container image.
+developer: LinuxServer.io
+website: https://github.com/linuxserver-playground/docker-baseimage-arch
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-baseimage-arch
+support: https://github.com/linuxserver-playground/docker-baseimage-arch/issues
+port: 80
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-baseimage-arch
