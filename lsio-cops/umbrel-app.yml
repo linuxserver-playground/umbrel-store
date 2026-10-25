@@ -4,7 +4,7 @@ category: media
 name: Cops
 tagline: Cops by Sébastien Lucas, now maintained by MikesPub, stands for Calibre OPDS (and HTML) Php Server
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/cops-icon.png
-version: latest
+version: 4.5.4
 description: Cops by Sébastien Lucas, now maintained by MikesPub, stands for Calibre OPDS (and HTML) Php Server.
 developer: LinuxServer.io
 website: https://github.com/mikespub-org/seblucas-cops

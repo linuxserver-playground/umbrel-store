@@ -4,7 +4,7 @@ category: media
 name: Beets
 tagline: Beets is a music library manager and not, for the most part, a music player
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/beets-icon.png
-version: latest
+version: 2.14.1
 description: Beets is a music library manager and not, for the most part, a music player. It does include a simple player plugin and an experimental Web-based player, but it generally leaves actual sound-reproduction to specialized tools.
 developer: LinuxServer.io
 website: http://beets.io/

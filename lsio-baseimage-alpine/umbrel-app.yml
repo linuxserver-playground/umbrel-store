@@ -4,7 +4,7 @@ category: utilities
 name: Baseimage-alpine
 tagline: baseimage-alpine container image
 icon: ''
-version: latest
+version: bc9f8d41
 description: baseimage-alpine container image.
 developer: LinuxServer.io
 website: https://github.com/linuxserver-playground/docker-baseimage-alpine

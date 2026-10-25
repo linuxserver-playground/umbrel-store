@@ -4,7 +4,7 @@ category: finance
 name: Bitcoin-knots
 tagline: 'Bitcoin Knots can be used as a desktop client for regular payments or as a full node server utility '
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/bitcoin-knots-logo.png
-version: latest
+version: 29.4.knots20260508.2-resolute1
 description: Bitcoin Knots can be used as a desktop client for regular payments or as a full node server utility for merchants and other payment services.
 developer: LinuxServer.io
 website: https://bitcoinknots.org/

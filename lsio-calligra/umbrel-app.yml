@@ -4,7 +4,7 @@ category: files
 name: Calligra
 tagline: Calligra is an office and graphic art suite by KDE
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/calligra-logo.png
-version: latest
+version: 3.2.1
 description: Calligra is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases.
 developer: LinuxServer.io
 website: https://calligra.org/

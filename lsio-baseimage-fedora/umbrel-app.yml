@@ -4,7 +4,7 @@ category: utilities
 name: Baseimage-fedora
 tagline: baseimage-fedora container image
 icon: ''
-version: latest
+version: 5dc015f1
 description: baseimage-fedora container image.
 developer: LinuxServer.io
 website: https://github.com/linuxserver-playground/docker-baseimage-fedora

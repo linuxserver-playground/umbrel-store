@@ -4,7 +4,7 @@ category: utilities
 name: Chrome
 tagline: Chrome is the official web browser from Google, built to be fast, secure, and customizable
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/chrome-logo.png
-version: latest
+version: 156.0.8078.47-1
 description: Chrome is the official web browser from Google, built to be fast, secure, and customizable.
 developer: LinuxServer.io
 website: https://www.google.com/chrome/

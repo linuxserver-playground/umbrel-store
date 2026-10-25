@@ -4,7 +4,7 @@ category: utilities
 name: Baseimage-debian
 tagline: baseimage-debian container image
 icon: ''
-version: latest
+version: d6ccf120
 description: baseimage-debian container image.
 developer: LinuxServer.io
 website: https://github.com/linuxserver-playground/docker-baseimage-debian
