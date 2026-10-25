@@ -4,7 +4,7 @@ category: utilities
 name: Librespeed
 tagline: Librespeed is a very lightweight Speedtest implemented in Javascript, using XMLHttpRequest and Web W
 icon: https://raw.githubusercontent.com/librespeed/speedtest/master/.logo/logo3.png
-version: latest
+version: v6.3.1
 description: Librespeed is a very lightweight Speedtest implemented in Javascript, using XMLHttpRequest and Web Workers.
 developer: LinuxServer.io
 website: https://github.com/librespeed/speedtest
