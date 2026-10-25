@@ -4,7 +4,7 @@ category: utilities
 name: Lsio-api
 tagline: lsio-api container image
 icon: ''
-version: latest
+version: 230cb1e0
 description: lsio-api container image.
 developer: LinuxServer.io
 website: https://github.com/linuxserver-playground/docker-lsio-api

@@ -4,7 +4,7 @@ category: media
 name: Kometa
 tagline: Kometa is a powerful tool designed to give you complete control over your media libraries
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/kometa-banner.png
-version: latest
+version: v2.5.3
 description: Kometa is a powerful tool designed to give you complete control over your media libraries. With Kometa, you can take your customization to the next level, with granular control over metadata, collections, overlays, and much more.
 developer: LinuxServer.io
 website: https://github.com/Kometa-Team/Kometa

@@ -4,7 +4,7 @@ category: gaming
 name: Mame
 tagline: MAME is a free and open-source emulator designed to emulate the hardware of arcade games, video game
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/mame-logo.png
-version: latest
+version: 0.289dfsg1-0
 description: MAME is a free and open-source emulator designed to emulate the hardware of arcade games, video game consoles, old computers and other systems in software on modern personal computers.
 developer: LinuxServer.io
 website: https://www.mamedev.org/

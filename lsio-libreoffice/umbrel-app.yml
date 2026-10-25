@@ -4,7 +4,7 @@ category: files
 name: Libreoffice
 tagline: LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known a
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/libreoffice-logo.png
-version: latest
+version: 25.8.7.3-r0
 description: LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
 developer: LinuxServer.io
 website: https://www.libreoffice.org/

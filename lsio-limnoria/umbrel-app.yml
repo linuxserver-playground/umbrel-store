@@ -4,7 +4,7 @@ category: automation
 name: Limnoria
 tagline: Limnoria A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing pl
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/limnoria-icon.png
-version: latest
+version: 2026.10.4
 description: Limnoria A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
 developer: LinuxServer.io
 website: https://github.com/ProgVal/limnoria

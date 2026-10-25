@@ -4,7 +4,7 @@ category: utilities
 name: Krita
 tagline: Krita is a professional FREE and open source painting program
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/krita-logo.png
-version: latest
+version: 5.3.4.1
 description: Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 developer: LinuxServer.io
 website: https://krita.org/en/
