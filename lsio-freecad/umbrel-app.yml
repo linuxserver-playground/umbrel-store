@@ -4,7 +4,7 @@ category: utilities
 name: Freecad
 tagline: FreeCAD is a general-purpose parametric 3D computer-aided design (CAD) modeler and a building inform
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/freecad-logo.png
-version: latest
+version: 1.1.4
 description: FreeCAD is a general-purpose parametric 3D computer-aided design (CAD) modeler and a building information modeling (BIM) software application with finite element method (FEM) support.
 developer: LinuxServer.io
 website: https://www.freecad.org/

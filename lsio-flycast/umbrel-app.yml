@@ -4,7 +4,7 @@ category: gaming
 name: Flycast
 tagline: Flycast is a multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from rei
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/flycast-logo.png
-version: latest
+version: v2.7
 description: Flycast is a multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast.
 developer: LinuxServer.io
 website: https://github.com/flyinghead/flycast

@@ -4,7 +4,7 @@ category: utilities
 name: Gitqlient
 tagline: GitQlient is a multi-platform Git client originally forked from QGit
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/gitqlient-icon.png
-version: latest
+version: v1.6.3
 description: GitQlient is a multi-platform Git client originally forked from QGit. Nowadays it goes beyond of just a fork and adds a lot of new functionality.
 developer: LinuxServer.io
 website: https://github.com/francescmm/GitQlient

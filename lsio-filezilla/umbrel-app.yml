@@ -4,7 +4,7 @@ category: utilities
 name: Filezilla
 tagline: FIleZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/filezilla-logo.png
-version: latest
+version: 3.69.6-1
 description: FIleZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.
 developer: LinuxServer.io
 website: https://filezilla-project.org/
