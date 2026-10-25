@@ -4,7 +4,7 @@ category: utilities
 name: Kicad
 tagline: KiCad - A Cross Platform and Open Source Electronics Design Automation Suite
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/kicad-logo.png
-version: latest
+version: 10.0.3-r0
 description: KiCad - A Cross Platform and Open Source Electronics Design Automation Suite.
 developer: LinuxServer.io
 website: https://www.kicad.org/

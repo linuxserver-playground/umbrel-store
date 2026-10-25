@@ -4,7 +4,7 @@ category: utilities
 name: Inkscape
 tagline: 'Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows '
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/inkscape-logo.png
-version: latest
+version: 1.4.2-r8
 description: Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.
 developer: LinuxServer.io
 website: https://inkscape.org/

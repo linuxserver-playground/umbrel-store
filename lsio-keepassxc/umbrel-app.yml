@@ -4,7 +4,7 @@ category: utilities
 name: Keepassxc
 tagline: KeePassXC is a free and open-source password manager
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/keepassxc-logo.png
-version: latest
+version: 2.7.12-r1
 description: KeePassXC is a free and open-source password manager. It started as a community fork of KeePassX (itself a cross-platform port of KeePass).
 developer: LinuxServer.io
 website: https://keepassxc.org/

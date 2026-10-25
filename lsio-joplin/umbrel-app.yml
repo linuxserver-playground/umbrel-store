@@ -4,7 +4,7 @@ category: utilities
 name: Joplin
 tagline: 'Joplin is a free, open source note taking and to-do application, which can handle a large number of '
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/joplin-logo.png
-version: latest
+version: v3.7.21
 description: Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks.
 developer: LinuxServer.io
 website: https://joplinapp.org/
