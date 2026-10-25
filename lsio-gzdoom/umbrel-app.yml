@@ -4,7 +4,7 @@ category: gaming
 name: Gzdoom
 tagline: GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL rendere
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/gzdoom-logo.png
-version: latest
+version: g4.14.2
 description: GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities.
 developer: LinuxServer.io
 website: https://gzdoom.app/
