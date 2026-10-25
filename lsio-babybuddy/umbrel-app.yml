@@ -4,7 +4,7 @@ category: utilities
 name: Babybuddy
 tagline: 'Babybuddy is a buddy for babies! Helps caregivers track sleep, feedings, diaper changes, tummy time '
 icon: https://github.com/linuxserver/docker-templates/raw/master/linuxserver.io/img/babybuddy-logo.png
-version: latest
+version: v2.11.0
 description: Babybuddy is a buddy for babies! Helps caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 developer: LinuxServer.io
 website: https://github.com/babybuddy/babybuddy

@@ -4,7 +4,7 @@ category: gaming
 name: Blade-of-agony
 tagline: 'Wolfenstein: Blade of Agony is a story-driven WWII shooter inspired by Wolfenstein and Doom'
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/boa-logo.png
-version: latest
+version: v3.1
 description: 'Wolfenstein: Blade of Agony is a story-driven WWII shooter inspired by Wolfenstein and Doom.'
 developer: LinuxServer.io
 website: https://boa.realm667.com/

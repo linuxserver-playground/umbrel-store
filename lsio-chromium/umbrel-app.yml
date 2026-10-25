@@ -4,7 +4,7 @@ category: utilities
 name: Chromium
 tagline: Chromium is an open-source browser project that aims to build a safer, faster, and more stable way f
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/chromium-logo.png
-version: latest
+version: 2dba585f
 description: Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
 developer: LinuxServer.io
 website: https://www.chromium.org/chromium-projects/

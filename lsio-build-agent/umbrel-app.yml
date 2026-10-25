@@ -4,7 +4,7 @@ category: utilities
 name: Build-agent
 tagline: build-agent container image
 icon: ''
-version: latest
+version: a5e52c73
 description: build-agent container image.
 developer: LinuxServer.io
 website: https://github.com/linuxserver-playground/docker-build-agent

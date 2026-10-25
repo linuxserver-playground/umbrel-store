@@ -4,7 +4,7 @@ category: media
 name: Audacity
 tagline: Audacity is an easy-to-use, multi-track audio editor and recorder
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/audacity-logo.png
-version: latest
+version: 4.0.1
 description: Audacity is an easy-to-use, multi-track audio editor and recorder. Developed by a group of volunteers as open source.
 developer: LinuxServer.io
 website: https://www.audacityteam.org/
