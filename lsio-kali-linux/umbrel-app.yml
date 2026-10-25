@@ -4,7 +4,7 @@ category: utilities
 name: Kali-linux
 tagline: Kali-linux - is an Advanced Penetration Testing Linux distribution used for Penetration Testing, Eth
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/kali-logo.png
-version: latest
+version: fd5ef31d
 description: Kali-linux - is an Advanced Penetration Testing Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments. KALI LINUX ™ is a trademark of OffSec.
 developer: LinuxServer.io
 website: https://github.com/linuxserver/docker-kali-linux
