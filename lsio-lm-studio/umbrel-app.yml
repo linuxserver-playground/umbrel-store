@@ -4,7 +4,7 @@ category: utilities
 name: Lm-studio
 tagline: LM Studio can run local AI models like gpt-oss, Llama, Gemma, Qwen, and DeepSeek privately on your c
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/lmstudio-logo.png
-version: latest
+version: '2026-10-23'
 description: LM Studio can run local AI models like gpt-oss, Llama, Gemma, Qwen, and DeepSeek privately on your computer.
 developer: LinuxServer.io
 website: https://lmstudio.ai/
