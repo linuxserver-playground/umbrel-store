@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-kicad
+category: utilities
+name: Kicad
+tagline: KiCad - A Cross Platform and Open Source Electronics Design Automation Suite
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/kicad-logo.png
+version: latest
+description: KiCad - A Cross Platform and Open Source Electronics Design Automation Suite.
+developer: LinuxServer.io
+website: https://www.kicad.org/
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-kicad
+support: https://github.com/linuxserver-playground/docker-kicad/issues
+port: 3000
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-kicad

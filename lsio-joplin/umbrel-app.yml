@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-joplin
+category: utilities
+name: Joplin
+tagline: 'Joplin is a free, open source note taking and to-do application, which can handle a large number of '
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/joplin-logo.png
+version: latest
+description: Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks.
+developer: LinuxServer.io
+website: https://joplinapp.org/
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-joplin
+support: https://github.com/linuxserver-playground/docker-joplin/issues
+port: 3000
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-joplin

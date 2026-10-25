@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-kdenlive
+category: media
+name: Kdenlive
+tagline: Kdenlive is a powerful free and open source cross-platform video editing program made by the KDE com
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/kdenlive-logo.png
+version: latest
+description: Kdenlive is a powerful free and open source cross-platform video editing program made by the KDE community. Feature rich and production ready.
+developer: LinuxServer.io
+website: https://kdenlive.org/
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-kdenlive
+support: https://github.com/linuxserver-playground/docker-kdenlive/issues
+port: 3000
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-kdenlive

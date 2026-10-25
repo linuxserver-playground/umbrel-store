@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-libreoffice
+category: files
+name: Libreoffice
+tagline: LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known a
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/libreoffice-logo.png
+version: latest
+description: LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
+developer: LinuxServer.io
+website: https://www.libreoffice.org/
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-libreoffice
+support: https://github.com/linuxserver-playground/docker-libreoffice/issues
+port: 3000
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-libreoffice

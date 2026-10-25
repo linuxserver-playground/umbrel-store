@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-lsio-api
+category: utilities
+name: Lsio-api
+tagline: lsio-api container image
+icon: ''
+version: latest
+description: lsio-api container image.
+developer: LinuxServer.io
+website: https://github.com/linuxserver-playground/docker-lsio-api
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-lsio-api
+support: https://github.com/linuxserver-playground/docker-lsio-api/issues
+port: 80
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-lsio-api
