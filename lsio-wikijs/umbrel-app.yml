@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-wikijs
+category: utilities
+name: Wikijs
+tagline: Wikijs A modern, lightweight and powerful wiki app built on NodeJS
+icon: https://static.requarks.io/logo/wikijs-full.svg
+version: latest
+description: Wikijs A modern, lightweight and powerful wiki app built on NodeJS.
+developer: LinuxServer.io
+website: https://github.com/Requarks/wiki
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-wikijs
+support: https://github.com/linuxserver-playground/docker-wikijs/issues
+port: 3000
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-wikijs

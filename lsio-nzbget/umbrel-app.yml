@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-nzbget
+category: automation
+name: Nzbget
+tagline: Nzbget is a usenet downloader, written in C++ and designed with performance in mind to achieve maxim
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/nzbget-banner.png
+version: latest
+description: Nzbget is a usenet downloader, written in C++ and designed with performance in mind to achieve maximum download speed by using very little system resources.
+developer: LinuxServer.io
+website: http://nzbget.com/
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-nzbget
+support: https://github.com/linuxserver-playground/docker-nzbget/issues
+port: 6789
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-nzbget

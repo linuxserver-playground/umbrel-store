@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-thelounge
+category: automation
+name: Thelounge
+tagline: Thelounge (a fork of shoutIRC) is a web IRC client that you host on your own server
+icon: https://raw.githubusercontent.com/thelounge/thelounge/master/client/img/logo-vertical-transparent-bg.svg?sanitize=true
+version: latest
+description: Thelounge (a fork of shoutIRC) is a web IRC client that you host on your own server.
+developer: LinuxServer.io
+website: https://thelounge.github.io/
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-thelounge
+support: https://github.com/linuxserver-playground/docker-thelounge/issues
+port: 9000
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-thelounge
