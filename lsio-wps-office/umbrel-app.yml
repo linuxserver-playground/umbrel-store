@@ -4,7 +4,7 @@ category: files
 name: Wps-office
 tagline: WPS Office is a lightweight, feature-rich comprehensive office suite with high compatibility
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/wps-office-icon.png
-version: latest
+version: 11.1.0.11723-2
 description: WPS Office is a lightweight, feature-rich comprehensive office suite with high compatibility. As a handy and professional office software, WPS Office allows you to edit files in Writer, Presentation, Spreadsheet, and PDF to improve your work efficiency.
 developer: LinuxServer.io
 website: https://www.wps.com/
