@@ -4,7 +4,7 @@ category: automation
 name: Flexget
 tagline: Flexget is a multipurpose automation tool for all of your media
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/flexget-banner.png
-version: v3.22.7
+version: v3.22.8
 description: Flexget is a multipurpose automation tool for all of your media.
 developer: LinuxServer.io
 website: http://flexget.com/
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-flexget
 support: https://github.com/linuxserver-playground/docker-flexget/issues
 port: 5050
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/flexget/v3.22.7-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/flexget/v3.22.8-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
