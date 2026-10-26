@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-minisatip
 support: https://github.com/linuxserver-playground/docker-minisatip/issues
 port: 8875
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/minisatip/v2.0.174-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-librespeed
 support: https://github.com/linuxserver-playground/docker-librespeed/issues
 port: 80
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/librespeed/v6.3.1-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-pelorus
 support: https://github.com/linuxserver-playground/docker-pelorus/issues
 port: 3001
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/pelorus/0.2.4-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

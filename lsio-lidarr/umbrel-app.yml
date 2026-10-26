@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-lidarr
 support: https://github.com/linuxserver-playground/docker-lidarr/issues
 port: 8686
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/lidarr/3.1.0.4875-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: /system/status
 defaultUsername: ''

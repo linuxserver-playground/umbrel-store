@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-kavita
 support: https://github.com/linuxserver-playground/docker-kavita/issues
 port: 5000
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/kavita/v0.9.1.4-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

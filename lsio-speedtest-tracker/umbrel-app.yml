@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-speedtest-tracker
 support: https://github.com/linuxserver-playground/docker-speedtest-tracker/issues
 port: 80
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/speedtest-tracker/v1.15.1-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

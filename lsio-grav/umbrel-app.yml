@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-grav
 support: https://github.com/linuxserver-playground/docker-grav/issues
 port: 80
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/grav/1.7.53.6-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

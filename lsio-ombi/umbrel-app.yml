@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-ombi
 support: https://github.com/linuxserver-playground/docker-ombi/issues
 port: 3579
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/ombi/v4.53.10-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

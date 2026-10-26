@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-syncthing
 support: https://github.com/linuxserver-playground/docker-syncthing/issues
 port: 8384
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/syncthing/v2.1.7-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

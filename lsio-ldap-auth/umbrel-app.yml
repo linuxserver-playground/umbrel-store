@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-ldap-auth
 support: https://github.com/linuxserver-playground/docker-ldap-auth/issues
 port: 8888
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/ldap-auth/3.4.8-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: /test
 defaultUsername: ''

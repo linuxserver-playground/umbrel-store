@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-nzbhydra2
 support: https://github.com/linuxserver-playground/docker-nzbhydra2/issues
 port: 5076
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/nzbhydra2/v9.1.1-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: /system/about
 defaultUsername: ''

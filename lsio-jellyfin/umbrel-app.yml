@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-jellyfin
 support: https://github.com/linuxserver-playground/docker-jellyfin/issues
 port: 8096
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/jellyfin/12.3ubu2604-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

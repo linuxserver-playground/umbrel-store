@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-duplicati
 support: https://github.com/linuxserver-playground/docker-duplicati/issues
 port: 8200
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/duplicati/v2.4.0.1_stable_2026-10-07-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: /login.html
 defaultUsername: ''

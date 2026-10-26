@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-oscam
 support: https://github.com/linuxserver-playground/docker-oscam/issues
 port: 8888
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/oscam/11968-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

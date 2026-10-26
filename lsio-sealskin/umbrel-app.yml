@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-sealskin
 support: https://github.com/linuxserver-playground/docker-sealskin/issues
 port: 8443
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/sealskin/0.4.0-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

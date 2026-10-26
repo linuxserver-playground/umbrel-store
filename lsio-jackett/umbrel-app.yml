@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-jackett
 support: https://github.com/linuxserver-playground/docker-jackett/issues
 port: 9117
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/jackett/v0.24.2910-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

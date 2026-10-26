@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-code-server
 support: https://github.com/linuxserver-playground/docker-code-server/issues
 port: 8443
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/code-server/4.143.1-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

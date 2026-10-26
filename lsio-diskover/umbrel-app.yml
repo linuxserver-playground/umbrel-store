@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-diskover
 support: https://github.com/linuxserver-playground/docker-diskover/issues
 port: 80
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/diskover/v2.3.5-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-babybuddy
 support: https://github.com/linuxserver-playground/docker-babybuddy/issues
 port: 8000
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/babybuddy/v2.11.0-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

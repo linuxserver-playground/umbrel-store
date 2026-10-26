@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-sickgear
 support: https://github.com/linuxserver-playground/docker-sickgear/issues
 port: 8081
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/sickgear/release_3.36.8-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: /home/view-changes
 defaultUsername: ''

@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-brave
 support: https://github.com/linuxserver-playground/docker-brave/issues
 port: 3000
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/brave/1.98.60-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

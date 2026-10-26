@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-beets
 support: https://github.com/linuxserver-playground/docker-beets/issues
 port: 8337
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/beets/2.14.1-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

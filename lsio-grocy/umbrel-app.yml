@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-grocy
 support: https://github.com/linuxserver-playground/docker-grocy/issues
 port: 9283
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/grocy/v4.7.1-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

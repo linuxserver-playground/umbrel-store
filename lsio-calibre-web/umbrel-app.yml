@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-calibre-web
 support: https://github.com/linuxserver-playground/docker-calibre-web/issues
 port: 8083
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/calibre-web/0.6.27-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-deluge
 support: https://github.com/linuxserver-playground/docker-deluge/issues
 port: 8112
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/deluge/2.2.0-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

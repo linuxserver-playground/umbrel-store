@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-homeassistant
 support: https://github.com/linuxserver-playground/docker-homeassistant/issues
 port: 8123
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/homeassistant/2026.10.4-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

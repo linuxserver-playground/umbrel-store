@@ -12,7 +12,8 @@ dependencies: []
 repo: https://github.com/linuxserver-playground/docker-thunderbird
 support: https://github.com/linuxserver-playground/docker-thunderbird/issues
 port: 3000
-gallery: []
+gallery:
+- https://linuxserver-playground.github.io/hub/builds/thunderbird/1140.17.0build3-0ubuntu0.24.04.1mt1-ls1/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
