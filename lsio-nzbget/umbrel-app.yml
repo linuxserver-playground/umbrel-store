@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-nzbget
 support: https://github.com/linuxserver-playground/docker-nzbget/issues
 port: 6789
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/nzbget/v26.3-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/nzbget/v26.3-ls4/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
