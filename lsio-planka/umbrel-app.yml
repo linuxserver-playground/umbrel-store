@@ -4,7 +4,7 @@ category: utilities
 name: Planka
 tagline: Planka is an elegant open source project tracking tool
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/planka-logo.png
-version: latest
+version: v2.2.1
 description: Planka is an elegant open source project tracking tool.
 developer: LinuxServer.io
 website: https://github.com/plankanban/planka/

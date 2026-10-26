@@ -4,7 +4,7 @@ category: utilities
 name: Vivaldi
 tagline: Vivaldi is a Norwegian freeware, cross-platform web browser with a built-in email client developed b
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/vivaldi-logo.png
-version: latest
+version: 8.2.4133.94-1
 description: Vivaldi is a Norwegian freeware, cross-platform web browser with a built-in email client developed by Vivaldi Technologies.
 developer: LinuxServer.io
 website: https://vivaldi.com/

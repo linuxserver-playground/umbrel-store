@@ -4,7 +4,7 @@ category: utilities
 name: Unrar
 tagline: unrar container image
 icon: ''
-version: latest
+version: 7.2.7
 description: unrar container image.
 developer: LinuxServer.io
 website: https://github.com/linuxserver-playground/docker-unrar

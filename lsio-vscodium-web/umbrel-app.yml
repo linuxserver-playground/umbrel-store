@@ -4,7 +4,7 @@ category: utilities
 name: Vscodium-web
 tagline: Vscodium-web is a community-driven, freely-licensed binary distribution of the remote host web compo
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/vscodium-icon.png
-version: latest
+version: 1.140.06880
 description: Vscodium-web is a community-driven, freely-licensed binary distribution of the remote host web component of Microsoft's editor VS Code.
 developer: LinuxServer.io
 website: https://vscodium.com/

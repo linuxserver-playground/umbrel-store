@@ -4,7 +4,7 @@ category: networking
 name: Unifi-network-application
 tagline: 'The Unifi-network-application software is a powerful, enterprise wireless software engine ideal for '
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/unifi-banner.png
-version: latest
+version: 10.6.109
 description: The Unifi-network-application software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance.
 developer: LinuxServer.io
 website: https://ui.com/

@@ -4,7 +4,7 @@ category: utilities
 name: Python
 tagline: python container image
 icon: ''
-version: latest
+version: 3.15.1
 description: python container image.
 developer: LinuxServer.io
 website: https://github.com/linuxserver-playground/docker-python

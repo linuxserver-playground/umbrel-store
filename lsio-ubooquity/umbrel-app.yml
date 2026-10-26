@@ -4,7 +4,7 @@ category: media
 name: Ubooquity
 tagline: Ubooquity is a free, lightweight and easy-to-use home server for your comics and ebooks
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/ubooquity-banner.png
-version: latest
+version: 3.1.0
 description: Ubooquity is a free, lightweight and easy-to-use home server for your comics and ebooks. Use it to access your files from anywhere, with a tablet, an e-reader, a phone or a computer.
 developer: LinuxServer.io
 website: https://vaemendis.net/ubooquity/

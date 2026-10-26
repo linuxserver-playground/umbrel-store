@@ -4,7 +4,7 @@ category: finance
 name: Kimai
 tagline: Kimai is a professional grade time-tracking application, free and open-source
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/kimai-logo.png
-version: latest
+version: 2.71.0
 description: 'Kimai is a professional grade time-tracking application, free and open-source. It handles use-cases of freelancers as well as companies with dozens or hundreds of users. Kimai was build to track your project times and ships with many advanced features, including but not limited to:'
 developer: LinuxServer.io
 website: https://kimai.org/
