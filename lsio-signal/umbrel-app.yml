@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-signal
 support: https://github.com/linuxserver-playground/docker-signal/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/signal/8.32.0-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/signal/8.32.0-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
