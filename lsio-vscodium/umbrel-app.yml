@@ -4,7 +4,7 @@ category: utilities
 name: Vscodium
 tagline: VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/vscodium-icon.png
-version: latest
+version: 1.140.06880
 description: VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.
 developer: LinuxServer.io
 website: https://vscodium.com/

@@ -4,7 +4,7 @@ category: utilities
 name: Yaak
 tagline: Yaak is a desktop API client for organizing and executing REST, GraphQL, and gRPC requests
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/yaak-logo.png
-version: latest
+version: v2026.9.0
 description: Yaak is a desktop API client for organizing and executing REST, GraphQL, and gRPC requests. It's built using Tauri, Rust, and ReactJS.
 developer: LinuxServer.io
 website: https://yaak.app/

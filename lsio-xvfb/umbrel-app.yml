@@ -4,7 +4,7 @@ category: utilities
 name: Xvfb
 tagline: xvfb container image
 icon: ''
-version: latest
+version: 9d327c0f
 description: xvfb container image.
 developer: LinuxServer.io
 website: https://github.com/linuxserver-playground/docker-xvfb
