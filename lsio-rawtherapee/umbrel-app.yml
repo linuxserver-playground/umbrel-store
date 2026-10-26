@@ -4,7 +4,7 @@ category: utilities
 name: Rawtherapee
 tagline: RawTherapee is a free, cross-platform raw image processing program!
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/rawtherapee-logo.png
-version: latest
+version: '5.13'
 description: RawTherapee is a free, cross-platform raw image processing program!
 developer: LinuxServer.io
 website: https://rawtherapee.com/

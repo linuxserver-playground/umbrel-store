@@ -4,7 +4,7 @@ category: utilities
 name: Rustdesk
 tagline: RustDesk is a full-featured open source remote control alternative for self-hosting and security wit
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/rustdesk-logo.png
-version: latest
+version: 1.5.0
 description: RustDesk is a full-featured open source remote control alternative for self-hosting and security with minimal configuration.
 developer: LinuxServer.io
 website: https://rustdesk.com/

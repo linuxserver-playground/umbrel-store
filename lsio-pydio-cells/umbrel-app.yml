@@ -4,7 +4,7 @@ category: files
 name: Pydio-cells
 tagline: Pydio-cells is the nextgen file sharing platform for organizations
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/pydio-cells-icon.png
-version: latest
+version: v5.1.0
 description: Pydio-cells is the nextgen file sharing platform for organizations. It is a full rewrite of the Pydio project using the Go language following a micro-service architecture.
 developer: LinuxServer.io
 website: https://pydio.com/

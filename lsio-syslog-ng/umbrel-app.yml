@@ -4,7 +4,7 @@ category: utilities
 name: Syslog-ng
 tagline: syslog-ng allows you to flexibly collect, parse, classify, rewrite and correlate logs from across yo
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/syslog-ng-logo.png
-version: latest
+version: 4.11.0-r0
 description: syslog-ng allows you to flexibly collect, parse, classify, rewrite and correlate logs from across your infrastructure and store or route them to log analysis tools.
 developer: LinuxServer.io
 website: https://www.syslog-ng.com/products/open-source-log-management/

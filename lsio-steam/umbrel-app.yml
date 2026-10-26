@@ -4,7 +4,7 @@ category: gaming
 name: Steam
 tagline: Steam is the ultimate destination for playing, discussing, and creating games
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/steam-logo.png
-version: latest
+version: 95181c2e
 description: Steam is the ultimate destination for playing, discussing, and creating games.
 developer: LinuxServer.io
 website: https://store.steampowered.com/

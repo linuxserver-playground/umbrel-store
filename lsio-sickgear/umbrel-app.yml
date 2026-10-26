@@ -4,7 +4,7 @@ category: media
 name: Sickgear
 tagline: SickGear provides management of TV shows and/or Anime, it detects new episodes, links downloader app
 icon: https://raw.githubusercontent.com/wiki/SickGear/SickGear.Wiki/images/SickGearLogo.png
-version: latest
+version: release_3.36.8
 description: SickGear provides management of TV shows and/or Anime, it detects new episodes, links downloader apps, and more..
 developer: LinuxServer.io
 website: https://github.com/sickgear/sickgear

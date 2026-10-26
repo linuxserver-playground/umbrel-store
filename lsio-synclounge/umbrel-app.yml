@@ -4,7 +4,7 @@ category: media
 name: Synclounge
 tagline: Synclounge is a third party tool that allows you to watch Plex in sync with your friends/family, whe
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/synclounge-banner.png
-version: latest
+version: 5.2.35
 description: Synclounge is a third party tool that allows you to watch Plex in sync with your friends/family, wherever you are.
 developer: LinuxServer.io
 website: https://github.com/samcm/synclounge

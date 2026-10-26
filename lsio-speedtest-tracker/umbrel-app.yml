@@ -4,7 +4,7 @@ category: utilities
 name: Speedtest-tracker
 tagline: Speedtest-tracker is a self-hosted internet performance tracking application that runs speedtest che
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/speedtest-tracker-logo.png
-version: latest
+version: v1.15.1
 description: Speedtest-tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
 developer: LinuxServer.io
 website: https://github.com/alexjustesen/speedtest-tracker

@@ -4,7 +4,7 @@ category: gaming
 name: Retroarch
 tagline: RetroArch is a frontend for emulators, game engines and media players
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/retroarch-logo.png
-version: latest
+version: 1.22.2ppa1.1-1ubuntu24.04.1
 description: RetroArch is a frontend for emulators, game engines and media players. It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface.
 developer: LinuxServer.io
 website: https://retroarch.com/

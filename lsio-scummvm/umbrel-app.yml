@@ -4,7 +4,7 @@ category: gaming
 name: Scummvm
 tagline: ScummVM is a program which allows you to run certain classic graphical adventure and role-playing ga
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/scummvm-logo.png
-version: latest
+version: v2026.4.0
 description: 'ScummVM is a program which allows you to run certain classic graphical adventure and role-playing games, provided you already have their data files. The clever part about this: ScummVM just replaces the executables shipped with the games, allowing you to play them on systems for which they were never designed! ScummVM is a complete rewrite of these games'' executables and is not an emulator.'
 developer: LinuxServer.io
 website: https://www.scummvm.org/
