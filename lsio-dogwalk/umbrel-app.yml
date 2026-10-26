@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-dogwalk
 support: https://github.com/linuxserver-playground/docker-dogwalk/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/dogwalk/f933e868-ls1/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/dogwalk/f933e868-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
