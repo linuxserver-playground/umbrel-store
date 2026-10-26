@@ -4,7 +4,7 @@ category: media
 name: Openshot
 tagline: OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Wind
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/openshot-logo.png
-version: latest
+version: 4.0.1dfsg21848202609280435ubuntu26.04.1
 description: OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 developer: LinuxServer.io
 website: https://openshot.org/

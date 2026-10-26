@@ -4,7 +4,7 @@ category: developer
 name: Mysql-workbench
 tagline: MySQL Workbench is a unified visual tool for database architects, developers, and DBAs
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/mysql-workbench-icon.png
-version: latest
+version: 8.0.47
 description: MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.
 developer: LinuxServer.io
 website: https://www.mysql.com/products/workbench/

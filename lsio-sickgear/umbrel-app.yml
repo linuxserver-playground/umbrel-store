@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-sickgear
+category: media
+name: Sickgear
+tagline: SickGear provides management of TV shows and/or Anime, it detects new episodes, links downloader app
+icon: https://raw.githubusercontent.com/wiki/SickGear/SickGear.Wiki/images/SickGearLogo.png
+version: latest
+description: SickGear provides management of TV shows and/or Anime, it detects new episodes, links downloader apps, and more..
+developer: LinuxServer.io
+website: https://github.com/sickgear/sickgear
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-sickgear
+support: https://github.com/linuxserver-playground/docker-sickgear/issues
+port: 8081
+gallery: []
+releaseNotes: ''
+path: /home/view-changes
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-sickgear

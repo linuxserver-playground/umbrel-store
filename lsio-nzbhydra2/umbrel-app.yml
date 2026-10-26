@@ -4,7 +4,7 @@ category: utilities
 name: Nzbhydra2
 tagline: Nzbhydra2 is a meta search application for NZB indexers, the spiritual successor to NZBmegasearcH, a
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/hydra-icon.png
-version: latest
+version: v9.1.1
 description: Nzbhydra2 is a meta search application for NZB indexers, the spiritual successor to NZBmegasearcH, and an evolution of the original application NZBHydra.
 developer: LinuxServer.io
 website: https://github.com/theotherp/nzbhydra2

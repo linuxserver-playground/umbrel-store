@@ -4,7 +4,7 @@ category: gaming
 name: Ppsspp
 tagline: 'PPSSPP is a free and open-source PSP emulator for Windows, macOS, Linux, iOS, Android, Nintendo Wii '
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/ppsspp-logo.png
-version: latest
+version: 1.20.4-4
 description: PPSSPP is a free and open-source PSP emulator for Windows, macOS, Linux, iOS, Android, Nintendo Wii U, Nintendo Switch, BlackBerry 10, MeeGo, Pandora, Xbox Series and Symbian with a focus on speed and portability.
 developer: LinuxServer.io
 website: https://www.ppsspp.org/

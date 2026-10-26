@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-shotcut
+category: media
+name: Shotcut
+tagline: Shotcut is a free, open source, cross-platform video editor
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/shotcut-logo.png
+version: latest
+description: Shotcut is a free, open source, cross-platform video editor.
+developer: LinuxServer.io
+website: https://www.shotcut.org/
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-shotcut
+support: https://github.com/linuxserver-playground/docker-shotcut/issues
+port: 3000
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-shotcut

@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-speedtest-tracker
+category: utilities
+name: Speedtest-tracker
+tagline: Speedtest-tracker is a self-hosted internet performance tracking application that runs speedtest che
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/speedtest-tracker-logo.png
+version: latest
+description: Speedtest-tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
+developer: LinuxServer.io
+website: https://github.com/alexjustesen/speedtest-tracker
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-speedtest-tracker
+support: https://github.com/linuxserver-playground/docker-speedtest-tracker/issues
+port: 80
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-speedtest-tracker
