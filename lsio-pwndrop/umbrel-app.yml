@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-pwndrop
 support: https://github.com/linuxserver-playground/docker-pwndrop/issues
 port: 8080
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/pwndrop/1.0.1-ls1/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/pwndrop/1.0.1-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: /pwndrop
 defaultUsername: ''
