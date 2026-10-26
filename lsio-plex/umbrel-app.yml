@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-plex
 support: https://github.com/linuxserver-playground/docker-plex/issues
 port: 32400
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/plex/1.43.5.11029-6bf8af3f0-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/plex/1.43.5.11029-6bf8af3f0-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: /web/index.html
 defaultUsername: ''

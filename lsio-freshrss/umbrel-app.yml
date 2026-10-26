@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-freshrss
 support: https://github.com/linuxserver-playground/docker-freshrss/issues
 port: 80
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/freshrss/1.30.4-ls1/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/freshrss/1.30.4-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

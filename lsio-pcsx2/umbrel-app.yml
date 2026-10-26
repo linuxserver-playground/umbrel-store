@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-pcsx2
 support: https://github.com/linuxserver-playground/docker-pcsx2/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/pcsx2/2.8.2-ls1/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/pcsx2/2.8.2-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

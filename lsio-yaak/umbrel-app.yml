@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-yaak
 support: https://github.com/linuxserver-playground/docker-yaak/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/yaak/v2026.9.0-ls1/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/yaak/v2026.9.0-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
