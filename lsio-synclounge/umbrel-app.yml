@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-synclounge
 support: https://github.com/linuxserver-playground/docker-synclounge/issues
 port: 8088
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/synclounge/5.2.35-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/synclounge/5.2.35-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

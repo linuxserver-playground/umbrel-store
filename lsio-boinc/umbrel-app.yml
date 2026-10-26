@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-boinc
 support: https://github.com/linuxserver-playground/docker-boinc/issues
 port: 8080
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/boinc/8.2.8dfsg202512070716ubuntu24.04.1-ls1/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/boinc/8.2.8dfsg202512070716ubuntu24.04.1-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
