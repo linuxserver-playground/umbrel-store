@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-bitcoin-knots
 support: https://github.com/linuxserver-playground/docker-bitcoin-knots/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/bitcoin-knots/29.4.knots20260508.2-resolute1-ls1/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/bitcoin-knots/29.4.knots20260508.2-resolute1-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
