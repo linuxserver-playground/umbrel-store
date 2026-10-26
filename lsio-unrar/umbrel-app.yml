@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-unrar
+category: utilities
+name: Unrar
+tagline: unrar container image
+icon: ''
+version: latest
+description: unrar container image.
+developer: LinuxServer.io
+website: https://github.com/linuxserver-playground/docker-unrar
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-unrar
+support: https://github.com/linuxserver-playground/docker-unrar/issues
+port: 80
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-unrar

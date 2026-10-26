@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-vscodium-web
+category: utilities
+name: Vscodium-web
+tagline: Vscodium-web is a community-driven, freely-licensed binary distribution of the remote host web compo
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/vscodium-icon.png
+version: latest
+description: Vscodium-web is a community-driven, freely-licensed binary distribution of the remote host web component of Microsoft's editor VS Code.
+developer: LinuxServer.io
+website: https://vscodium.com/
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-vscodium-web
+support: https://github.com/linuxserver-playground/docker-vscodium-web/issues
+port: 8000
+gallery: []
+releaseNotes: ''
+path: /?tkn=lsio
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-vscodium-web

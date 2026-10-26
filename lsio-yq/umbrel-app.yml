@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-yq
+category: utilities
+name: Yq
+tagline: yq container image
+icon: ''
+version: latest
+description: yq container image.
+developer: LinuxServer.io
+website: https://github.com/linuxserver-playground/docker-yq
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-yq
+support: https://github.com/linuxserver-playground/docker-yq/issues
+port: 80
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-yq

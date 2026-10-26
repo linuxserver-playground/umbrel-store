@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: lsio-ungoogled-chromium
+category: utilities
+name: Ungoogled-chromium
+tagline: Ungoogled Chromium is Google Chromium, sans dependency on Google web services
+icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/ungoogled-chromium-logo.png
+version: latest
+description: Ungoogled Chromium is Google Chromium, sans dependency on Google web services.
+developer: LinuxServer.io
+website: https://github.com/ungoogled-software/ungoogled-chromium
+dependencies: []
+repo: https://github.com/linuxserver-playground/docker-ungoogled-chromium
+support: https://github.com/linuxserver-playground/docker-ungoogled-chromium/issues
+port: 3000
+gallery: []
+releaseNotes: ''
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+submitter: LinuxServer.io
+submission: https://github.com/linuxserver-playground/docker-ungoogled-chromium
