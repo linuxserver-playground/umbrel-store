@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-pydio-cells
 support: https://github.com/linuxserver-playground/docker-pydio-cells/issues
 port: 8080
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/pydio-cells/v5.1.0-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/pydio-cells/v5.1.0-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
