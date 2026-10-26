@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-tautulli
 support: https://github.com/linuxserver-playground/docker-tautulli/issues
 port: 8181
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/tautulli/v2.18.2-ls1/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/tautulli/v2.18.2-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
