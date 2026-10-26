@@ -4,7 +4,7 @@ category: gaming
 name: Shadps4
 tagline: shadPS4 is an early PlayStation 4 emulator for Windows, Linux and macOS written in C++
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/shadps4-logo.png
-version: shadPS4QtLauncher-2026-10-26-fce7f8f9187635f7ae2b8d4369d880f9555ff193
+version: shadPS4QtLauncher-2026-10-26-ed0ee82b7a7059724a55a42ae2a1e8ca42c120c9
 description: shadPS4 is an early PlayStation 4 emulator for Windows, Linux and macOS written in C++.
 developer: LinuxServer.io
 website: https://shadps4.net/
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-shadps4
 support: https://github.com/linuxserver-playground/docker-shadps4/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/shadps4/shadPS4QtLauncher-2026-10-26-fce7f8f9187635f7ae2b8d4369d880f9555ff193-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/shadps4/shadPS4QtLauncher-2026-10-26-ed0ee82b7a7059724a55a42ae2a1e8ca42c120c9-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
