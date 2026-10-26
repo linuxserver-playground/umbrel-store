@@ -4,7 +4,7 @@ category: social
 name: Telegram
 tagline: Telegram is a cloud-based mobile and desktop messaging app
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/telegram-logo.png
-version: latest
+version: 7.3.3
 description: Telegram is a cloud-based mobile and desktop messaging app.
 developer: LinuxServer.io
 website: https://telegram.org/
