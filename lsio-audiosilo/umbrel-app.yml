@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-audiosilo
 support: https://github.com/linuxserver-playground/docker-audiosilo/issues
 port: 8080
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/audiosilo/v2.4.1-ls1/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/audiosilo/v2.4.1-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

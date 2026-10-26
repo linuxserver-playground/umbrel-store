@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-darktable
 support: https://github.com/linuxserver-playground/docker-darktable/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/darktable/25.6.2-1-ls1/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/darktable/25.6.2-1-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
