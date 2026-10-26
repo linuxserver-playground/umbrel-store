@@ -4,7 +4,7 @@ category: media
 name: Mstream
 tagline: mstream is a personal music streaming server
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/mstream-icon.png
-version: latest
+version: v6.31.1
 description: mstream is a personal music streaming server. You can use mStream to stream your music from your home computer to any device, anywhere. There are mobile apps available for both Android and iPhone.
 developer: LinuxServer.io
 website: https://mstream.io/

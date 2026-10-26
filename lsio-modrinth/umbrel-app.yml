@@ -4,7 +4,7 @@ category: gaming
 name: Modrinth
 tagline: 'Modrinth App is a unique, open source launcher that allows you to play your favorite mods, and keep '
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/modrinth-logo.png
-version: latest
+version: v0.22.0
 description: Modrinth App is a unique, open source launcher that allows you to play your favorite mods, and keep them up to date, all in one neat little package.
 developer: LinuxServer.io
 website: https://modrinth.com/

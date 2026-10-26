@@ -4,7 +4,7 @@ category: files
 name: Onlyoffice
 tagline: ONLYOFFICE provides a full range of tools to create, edit and collaborate on text documents, spreads
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/onlyoffice-logo.png
-version: latest
+version: v10.0.0
 description: ONLYOFFICE provides a full range of tools to create, edit and collaborate on text documents, spreadsheets, presentations, PDF forms and regular PDF files on web, desktop and mobile platforms.
 developer: LinuxServer.io
 website: https://www.onlyoffice.com/

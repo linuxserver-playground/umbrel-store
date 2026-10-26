@@ -4,7 +4,7 @@ category: gaming
 name: Pcsx2
 tagline: PCSX2 is an open source PS2 Emulator
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/pcsx2-logo.png
-version: latest
+version: 2.8.2
 description: PCSX2 is an open source PS2 Emulator.
 developer: LinuxServer.io
 website: https://pcsx2.net/
