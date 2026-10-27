@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-shadps4
 support: https://github.com/linuxserver-playground/docker-shadps4/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/shadps4/shadPS4QtLauncher-2026-10-26-811fb0319cea2e76f1fb8f89d22d67efdf45761a-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/shadps4/shadPS4QtLauncher-2026-10-26-811fb0319cea2e76f1fb8f89d22d67efdf45761a-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
