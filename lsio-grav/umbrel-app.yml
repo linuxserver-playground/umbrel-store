@@ -4,7 +4,7 @@ category: utilities
 name: Grav
 tagline: Grav is a Fast, Simple, and Flexible, file-based Web-platform
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/grav-logo.png
-version: 1.7.53.6
+version: 2.2.14
 description: Grav is a Fast, Simple, and Flexible, file-based Web-platform.
 developer: LinuxServer.io
 website: https://github.com/getgrav/grav/
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-grav
 support: https://github.com/linuxserver-playground/docker-grav/issues
 port: 80
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/grav/1.7.53.6-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/grav/2.2.14-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
