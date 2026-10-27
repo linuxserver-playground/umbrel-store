@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-dolphin
 support: https://github.com/linuxserver-playground/docker-dolphin/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/dolphin/2609a-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/dolphin/2609a-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
