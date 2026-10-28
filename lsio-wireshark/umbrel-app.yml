@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-wireshark
 support: https://github.com/linuxserver-playground/docker-wireshark/issues
 port: 3001
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/wireshark/4.6.6-r0-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-wireshark/builds/4.6.6-r0-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-doublecommander
 support: https://github.com/linuxserver-playground/docker-doublecommander/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/doublecommander/eb4e862f-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-doublecommander/builds/eb4e862f-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

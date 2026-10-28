@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-pyload-ng
 support: https://github.com/linuxserver-playground/docker-pyload-ng/issues
 port: 8000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/pyload-ng/0.5.0b3.dev102-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-pyload-ng/builds/0.5.0b3.dev102-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

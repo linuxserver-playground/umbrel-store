@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-sabnzbd
 support: https://github.com/linuxserver-playground/docker-sabnzbd/issues
 port: 8080
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/sabnzbd/5.1.3-ls5/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-sabnzbd/builds/5.1.3-ls5/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

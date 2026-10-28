@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-sealskin
 support: https://github.com/linuxserver-playground/docker-sealskin/issues
 port: 8443
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/sealskin/0.4.0-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-sealskin/builds/0.4.0-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

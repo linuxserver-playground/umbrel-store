@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-cops
 support: https://github.com/linuxserver-playground/docker-cops/issues
 port: 80
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/cops/4.6.1-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-cops/builds/4.6.1-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

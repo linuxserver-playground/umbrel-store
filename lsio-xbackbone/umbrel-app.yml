@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-xbackbone
 support: https://github.com/linuxserver-playground/docker-xbackbone/issues
 port: 80
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/xbackbone/3.8.2-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-xbackbone/builds/3.8.2-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

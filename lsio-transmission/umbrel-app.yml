@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-transmission
 support: https://github.com/linuxserver-playground/docker-transmission/issues
 port: 9091
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/transmission/4.1.3-r0-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-transmission/builds/4.1.3-r0-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

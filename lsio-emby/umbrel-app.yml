@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-emby
 support: https://github.com/linuxserver-playground/docker-emby/issues
 port: 8096
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/emby/4.10.2.0-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-emby/builds/4.10.2.0-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

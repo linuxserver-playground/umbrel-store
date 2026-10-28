@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-flexget
 support: https://github.com/linuxserver-playground/docker-flexget/issues
 port: 5050
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/flexget/v3.22.9-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-flexget/builds/v3.22.9-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

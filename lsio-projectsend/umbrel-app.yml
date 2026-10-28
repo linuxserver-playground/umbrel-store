@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-projectsend
 support: https://github.com/linuxserver-playground/docker-projectsend/issues
 port: 80
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/projectsend/r2098-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-projectsend/builds/r2098-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: /install/make-config.php
 defaultUsername: ''

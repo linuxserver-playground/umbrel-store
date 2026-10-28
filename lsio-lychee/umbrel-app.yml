@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-lychee
 support: https://github.com/linuxserver-playground/docker-lychee/issues
 port: 80
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/lychee/v7.12.0-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-lychee/builds/v7.12.0-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-wps-office
 support: https://github.com/linuxserver-playground/docker-wps-office/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/wps-office/11.1.0.11723-2-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-wps-office/builds/11.1.0.11723-2-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

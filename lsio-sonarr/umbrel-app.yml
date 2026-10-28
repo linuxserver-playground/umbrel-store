@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-sonarr
 support: https://github.com/linuxserver-playground/docker-sonarr/issues
 port: 8989
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/sonarr/4.0.20.3014-ls4/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-sonarr/builds/4.0.20.3014-ls4/amd64/screenshot.png
 releaseNotes: ''
 path: /system/status
 defaultUsername: ''

@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-kali-linux
 support: https://github.com/linuxserver-playground/docker-kali-linux/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/kali-linux/794ed558-ls4/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-kali-linux/builds/794ed558-ls4/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

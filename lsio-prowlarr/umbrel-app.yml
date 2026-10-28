@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-prowlarr
 support: https://github.com/linuxserver-playground/docker-prowlarr/issues
 port: 9696
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/prowlarr/2.7.0.5723-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-prowlarr/builds/2.7.0.5723-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: /system/status
 defaultUsername: ''

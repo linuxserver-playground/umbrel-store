@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-ubooquity
 support: https://github.com/linuxserver-playground/docker-ubooquity/issues
 port: 2202
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/ubooquity/3.1.0-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-ubooquity/builds/3.1.0-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: /ubooquity/admin
 defaultUsername: ''

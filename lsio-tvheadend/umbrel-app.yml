@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-tvheadend
 support: https://github.com/linuxserver-playground/docker-tvheadend/issues
 port: 9981
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/tvheadend/443f15ba-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-tvheadend/builds/443f15ba-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

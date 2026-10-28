@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-thelounge
 support: https://github.com/linuxserver-playground/docker-thelounge/issues
 port: 9000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/thelounge/v4.5.2-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-thelounge/builds/v4.5.2-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

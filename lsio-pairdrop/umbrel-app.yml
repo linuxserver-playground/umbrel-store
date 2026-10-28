@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-pairdrop
 support: https://github.com/linuxserver-playground/docker-pairdrop/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/pairdrop/v1.11.2-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-pairdrop/builds/v1.11.2-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
