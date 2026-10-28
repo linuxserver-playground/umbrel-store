@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-vscodium-web
 support: https://github.com/linuxserver-playground/docker-vscodium-web/issues
 port: 8000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/vscodium-web/1.143.17183-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/vscodium-web/1.143.17183-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: /?tkn=lsio
 defaultUsername: ''
