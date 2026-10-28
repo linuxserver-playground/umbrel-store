@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-telegram
 support: https://github.com/linuxserver-playground/docker-telegram/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-telegram/builds/7.3.3-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-telegram/builds/7.3.3-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
