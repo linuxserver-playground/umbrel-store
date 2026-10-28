@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-inkscape
 support: https://github.com/linuxserver-playground/docker-inkscape/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/hub/builds/inkscape/1.4.2-r8-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/hub/builds/inkscape/1.4.2-r8-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
