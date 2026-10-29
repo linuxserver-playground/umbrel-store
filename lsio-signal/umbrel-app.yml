@@ -4,7 +4,7 @@ category: social
 name: Signal
 tagline: Signal is a messaging app with privacy at its core
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/signal-logo.png
-version: 8.32.0
+version: 8.33.0
 description: Signal is a messaging app with privacy at its core. It is free and easy to use, with strong end-to-end encryption that keeps your communication completely private.
 developer: LinuxServer.io
 website: https://signal.org/
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-signal
 support: https://github.com/linuxserver-playground/docker-signal/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-signal/builds/8.32.0-ls4/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-signal/builds/8.33.0-ls4/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
