@@ -4,7 +4,7 @@ category: utilities
 name: Zen
 tagline: Zen Browser is a free and open-source fork of Mozilla Firefox with a focus on privacy, customizabili
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/zen-logo.png
-version: 1.23.4b
+version: 1.24b
 description: Zen Browser is a free and open-source fork of Mozilla Firefox with a focus on privacy, customizability and design.
 developer: LinuxServer.io
 website: https://zen-browser.app/
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-zen
 support: https://github.com/linuxserver-playground/docker-zen/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-zen/builds/1.23.4b-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-zen/builds/1.24b-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
