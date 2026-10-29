@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-apprise-api
 support: https://github.com/linuxserver-playground/docker-apprise-api/issues
 port: 8000
 gallery:
-- https://linuxserver-playground.github.io/docker-apprise-api/builds/v2.0.2-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-apprise-api/builds/v2.0.2-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
