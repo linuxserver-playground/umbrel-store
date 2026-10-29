@@ -4,7 +4,7 @@ category: utilities
 name: Code-server
 tagline: Code-server is VS Code running on a remote server, accessible through the browser
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/code-server-banner.png
-version: 4.143.1
+version: 4.144.0
 description: Code-server is VS Code running on a remote server, accessible through the browser. - Code on your Chromebook, tablet, and laptop with a consistent dev environment. - If you have a Windows or Mac workstation, more easily develop for Linux. - Take advantage of large cloud servers to speed up tests, compilations, downloads, and more. - Preserve battery life when you're on the go. - All intensive computation runs on your server. - You're no longer running excess instances of Chrome.
 developer: LinuxServer.io
 website: https://coder.com
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-code-server
 support: https://github.com/linuxserver-playground/docker-code-server/issues
 port: 8443
 gallery:
-- https://linuxserver-playground.github.io/docker-code-server/builds/4.143.1-ls4/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-code-server/builds/4.144.0-ls5/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
