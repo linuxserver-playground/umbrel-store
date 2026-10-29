@@ -4,7 +4,7 @@ category: files
 name: Zotero
 tagline: Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/zotero-icon.png
-version: 10.0.6
+version: 10.0.7
 description: Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.
 developer: LinuxServer.io
 website: https://www.zotero.org/
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-zotero
 support: https://github.com/linuxserver-playground/docker-zotero/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-zotero/builds/10.0.6-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-zotero/builds/10.0.7-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

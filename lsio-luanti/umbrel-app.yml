@@ -4,7 +4,7 @@ category: gaming
 name: Luanti
 tagline: Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/minetest-icon.png
-version: 5.18.0-rc1
+version: 5.18.0
 description: Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 developer: LinuxServer.io
 website: https://www.luanti.org/
