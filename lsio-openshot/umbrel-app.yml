@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-openshot
 support: https://github.com/linuxserver-playground/docker-openshot/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-openshot/builds/4.0.1dfsg21848202609280435ubuntu26.04.1-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-openshot/builds/4.0.1dfsg21848202609280435ubuntu26.04.1-ls4/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
