@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-htpcmanager
 support: https://github.com/linuxserver-playground/docker-htpcmanager/issues
 port: 8085
 gallery:
-- https://linuxserver-playground.github.io/docker-htpcmanager/builds/26a641bf-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-htpcmanager/builds/26a641bf-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
