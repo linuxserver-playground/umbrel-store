@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-digikam
 support: https://github.com/linuxserver-playground/docker-digikam/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-digikam/builds/9.1.0-ls5/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-digikam/builds/9.1.0-ls6/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

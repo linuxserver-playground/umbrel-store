@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-healthchecks
 support: https://github.com/linuxserver-playground/docker-healthchecks/issues
 port: 8000
 gallery:
-- https://linuxserver-playground.github.io/docker-healthchecks/builds/v5.0.3-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-healthchecks/builds/v5.0.3-ls4/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
