@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-grocy
 support: https://github.com/linuxserver-playground/docker-grocy/issues
 port: 9283
 gallery:
-- https://linuxserver-playground.github.io/docker-grocy/builds/v4.7.1-ls5/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-grocy/builds/v4.7.1-ls6/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

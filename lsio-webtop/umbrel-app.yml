@@ -4,7 +4,7 @@ category: utilities
 name: Webtop
 tagline: Webtop - Alpine, Ubuntu, Fedora, and Arch based containers containing full desktop environments in o
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/webtop-logo.png
-version: 3d3463cb
+version: 93c26816
 description: Webtop - Alpine, Ubuntu, Fedora, and Arch based containers containing full desktop environments in officially supported flavors accessible via any modern web browser.
 developer: LinuxServer.io
 website: https://github.com/linuxserver/docker-webtop
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-webtop
 support: https://github.com/linuxserver-playground/docker-webtop/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-webtop/builds/3d3463cb-ls4/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-webtop/builds/93c26816-ls5/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
