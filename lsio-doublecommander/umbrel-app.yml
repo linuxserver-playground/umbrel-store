@@ -4,7 +4,7 @@ category: files
 name: Doublecommander
 tagline: Double Commander is a free cross platform open source file manager with two panels side by side
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/doublecommander-icon.png
-version: eb4e862f
+version: efff180e
 description: Double Commander is a free cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.
 developer: LinuxServer.io
 website: https://doublecmd.sourceforge.io/
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-doublecommander
 support: https://github.com/linuxserver-playground/docker-doublecommander/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-doublecommander/builds/eb4e862f-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-doublecommander/builds/efff180e-ls4/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
