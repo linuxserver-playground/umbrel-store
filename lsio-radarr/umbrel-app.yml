@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-radarr
 support: https://github.com/linuxserver-playground/docker-radarr/issues
 port: 7878
 gallery:
-- https://linuxserver-playground.github.io/docker-radarr/builds/6.4.4.10685-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-radarr/builds/6.4.4.10685-ls4/amd64/screenshot.png
 releaseNotes: ''
 path: /system/status
 defaultUsername: ''

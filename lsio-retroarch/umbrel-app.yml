@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-retroarch
 support: https://github.com/linuxserver-playground/docker-retroarch/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-retroarch/builds/1.22.2ppa1.1-1ubuntu24.04.1-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-retroarch/builds/1.22.2ppa1.1-1ubuntu24.04.1-ls4/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
