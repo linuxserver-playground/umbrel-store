@@ -4,7 +4,7 @@ category: media
 name: Audiosilo
 tagline: AudioSilo is a self-hosted audiobook server
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/audiosilo-logo.png
-version: v2.5.0
+version: v2.5.1
 description: AudioSilo is a self-hosted audiobook server. Point it at your audiobook folders and listen from the built-in web player or the AudioSilo apps for iOS and Android, with listening progress synced across devices.
 developer: LinuxServer.io
 website: https://audiosilo.app
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-audiosilo
 support: https://github.com/linuxserver-playground/docker-audiosilo/issues
 port: 8080
 gallery:
-- https://linuxserver-playground.github.io/docker-audiosilo/builds/v2.5.0-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-audiosilo/builds/v2.5.1-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

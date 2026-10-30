@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-github-desktop
 support: https://github.com/linuxserver-playground/docker-github-desktop/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-github-desktop/builds/release-3.4.13-linux1-ls1/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-github-desktop/builds/release-3.4.13-linux1-ls2/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
