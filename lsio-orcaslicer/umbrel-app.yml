@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-orcaslicer
 support: https://github.com/linuxserver-playground/docker-orcaslicer/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-orcaslicer/builds/v2.4.2-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-orcaslicer/builds/v2.4.2-ls4/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

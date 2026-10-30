@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-phpmyadmin
 support: https://github.com/linuxserver-playground/docker-phpmyadmin/issues
 port: 80
 gallery:
-- https://linuxserver-playground.github.io/docker-phpmyadmin/builds/5.2.3-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-phpmyadmin/builds/5.2.3-ls4/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-lazylibrarian
 support: https://github.com/linuxserver-playground/docker-lazylibrarian/issues
 port: 5299
 gallery:
-- https://linuxserver-playground.github.io/docker-lazylibrarian/builds/a5f08524-ls4/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-lazylibrarian/builds/a5f08524-ls5/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

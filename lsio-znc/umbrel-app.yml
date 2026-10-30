@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-znc
 support: https://github.com/linuxserver-playground/docker-znc/issues
 port: 6501
 gallery:
-- https://linuxserver-playground.github.io/docker-znc/builds/znc-1.10.3-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-znc/builds/znc-1.10.3-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

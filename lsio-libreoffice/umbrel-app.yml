@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-libreoffice
 support: https://github.com/linuxserver-playground/docker-libreoffice/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-libreoffice/builds/25.8.7.3-r0-ls3/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-libreoffice/builds/25.8.7.3-r0-ls4/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

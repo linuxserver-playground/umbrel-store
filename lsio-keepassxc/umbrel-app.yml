@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-keepassxc
 support: https://github.com/linuxserver-playground/docker-keepassxc/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-keepassxc/builds/2.7.12-r1-ls2/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-keepassxc/builds/2.7.12-r1-ls3/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

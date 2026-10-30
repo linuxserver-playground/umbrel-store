@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-rpcs3
 support: https://github.com/linuxserver-playground/docker-rpcs3/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-rpcs3/builds/build-9508444d31338e89a4f4cee1d0cee1800c96d2c1-ls6/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-rpcs3/builds/build-9508444d31338e89a4f4cee1d0cee1800c96d2c1-ls7/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
