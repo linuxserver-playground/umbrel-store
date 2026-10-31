@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-medusa
 support: https://github.com/linuxserver-playground/docker-medusa/issues
 port: 8081
 gallery:
-- https://linuxserver-playground.github.io/docker-medusa/builds/v1.0.27-ls4/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-medusa/builds/v1.0.27-ls5/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''

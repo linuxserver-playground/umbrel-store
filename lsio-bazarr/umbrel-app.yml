@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-bazarr
 support: https://github.com/linuxserver-playground/docker-bazarr/issues
 port: 6767
 gallery:
-- https://linuxserver-playground.github.io/docker-bazarr/builds/v1.6.2-ls5/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-bazarr/builds/v1.6.2-ls6/amd64/screenshot.png
 releaseNotes: ''
 path: /system/status
 defaultUsername: ''
