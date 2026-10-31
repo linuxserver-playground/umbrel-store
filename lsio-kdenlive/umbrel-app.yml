@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-kdenlive
 support: https://github.com/linuxserver-playground/docker-kdenlive/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-kdenlive/builds/26.08.2-3-ls4/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-kdenlive/builds/26.08.2-3-ls5/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
