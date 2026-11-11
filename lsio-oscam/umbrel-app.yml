@@ -4,7 +4,7 @@ category: media
 name: Oscam
 tagline: Oscam is an Open Source Conditional Access Module software used for descrambling DVB transmissions u
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/oscam-logo.png
-version: '11974'
+version: '11975'
 description: Oscam is an Open Source Conditional Access Module software used for descrambling DVB transmissions using smart cards. It's both a server and a client.
 developer: LinuxServer.io
 website: https://git.streamboard.tv/common/oscam
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-oscam
 support: https://github.com/linuxserver-playground/docker-oscam/issues
 port: 8888
 gallery:
-- https://linuxserver-playground.github.io/docker-oscam/builds/11974-ls8/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-oscam/builds/11975-ls9/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
