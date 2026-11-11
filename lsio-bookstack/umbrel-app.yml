@@ -4,7 +4,7 @@ category: utilities
 name: Bookstack
 tagline: Bookstack is a free and open source Wiki designed for creating beautiful documentation
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/bookstack-logo.png
-version: v26.09.2
+version: v26.09.3
 description: Bookstack is a free and open source Wiki designed for creating beautiful documentation. Featuring a simple, but powerful WYSIWYG editor it allows for teams to create detailed and useful documentation with ease.
 developer: LinuxServer.io
 website: https://codeberg.org/bookstack/bookstack
