@@ -4,7 +4,7 @@ category: utilities
 name: Modmanager
 tagline: Modmanager is a centralised tool for downloading and updating docker mods for all your other Linuxse
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver-ls-logo.png
-version: 9c4ddecb
+version: 5d7f36a3
 description: Modmanager is a centralised tool for downloading and updating docker mods for all your other Linuxserver containers.
 developer: LinuxServer.io
 website: https://github.com/linuxserver-playground/docker-modmanager
