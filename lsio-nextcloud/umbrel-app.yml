@@ -4,7 +4,7 @@ category: files
 name: Nextcloud
 tagline: Nextcloud gives you access to all your files wherever you are
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/nextcloud-icon.png
-version: 35.0.2
+version: 35.0.3
 description: Nextcloud gives you access to all your files wherever you are.
 developer: LinuxServer.io
 website: https://nextcloud.com/
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-nextcloud
 support: https://github.com/linuxserver-playground/docker-nextcloud/issues
 port: 443
 gallery:
-- https://linuxserver-playground.github.io/docker-nextcloud/builds/35.0.2-ls8/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-nextcloud/builds/35.0.3-ls9/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
