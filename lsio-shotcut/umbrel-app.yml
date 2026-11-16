@@ -4,7 +4,7 @@ category: media
 name: Shotcut
 tagline: Shotcut is a free, open source, cross-platform video editor
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/shotcut-logo.png
-version: v26.9.27
+version: v26.11.15
 description: Shotcut is a free, open source, cross-platform video editor.
 developer: LinuxServer.io
 website: https://www.shotcut.org/
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-shotcut
 support: https://github.com/linuxserver-playground/docker-shotcut/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-shotcut/builds/v26.9.27-ls11/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-shotcut/builds/v26.11.15-ls12/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
