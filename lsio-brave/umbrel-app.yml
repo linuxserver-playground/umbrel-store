@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-brave
 support: https://github.com/linuxserver-playground/docker-brave/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-brave/builds/1.100.58-ls10/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-brave/builds/1.100.58-ls11/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
