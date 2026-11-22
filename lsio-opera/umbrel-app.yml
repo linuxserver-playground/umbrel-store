@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-opera
 support: https://github.com/linuxserver-playground/docker-opera/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-opera/builds/140.0.6074.36-ls9/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-opera/builds/140.0.6074.36-ls10/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
