@@ -4,7 +4,7 @@ category: gaming
 name: Rpcs3
 tagline: RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Wi
 icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/rpcs3-logo.png
-version: build-8bb970d0fd3b3761712ad1000a6cca8e41ddca45
+version: build-34ce3f70eb4fa84bd3d4a39ef6af3d0bd1d869f8
 description: RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.
 developer: LinuxServer.io
 website: https://rpcs3.net/
@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-rpcs3
 support: https://github.com/linuxserver-playground/docker-rpcs3/issues
 port: 3000
 gallery:
-- https://linuxserver-playground.github.io/docker-rpcs3/builds/build-8bb970d0fd3b3761712ad1000a6cca8e41ddca45-ls35/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-rpcs3/builds/build-34ce3f70eb4fa84bd3d4a39ef6af3d0bd1d869f8-ls36/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
