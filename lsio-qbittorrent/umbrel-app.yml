@@ -13,7 +13,7 @@ repo: https://github.com/linuxserver-playground/docker-qbittorrent
 support: https://github.com/linuxserver-playground/docker-qbittorrent/issues
 port: 8080
 gallery:
-- https://linuxserver-playground.github.io/docker-qbittorrent/builds/5.3.1_v2.1.3-ls12/amd64/screenshot.png
+- https://linuxserver-playground.github.io/docker-qbittorrent/builds/5.3.1_v2.1.3-ls13/amd64/screenshot.png
 releaseNotes: ''
 path: ''
 defaultUsername: ''
